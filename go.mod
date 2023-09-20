@@ -1,4 +1,4 @@
-module github.com/charmbracelet/log
+module github.com/jamietanna/log
 
 go 1.21
 
